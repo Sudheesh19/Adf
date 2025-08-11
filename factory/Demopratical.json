@@ -1,0 +1,9 @@
+{
+	"name": "Demopratical",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa73eea1-4e32-4d7e-925a-88307c96e173",
+		"tenantId": "1b4d5437-3906-44eb-b69a-ac13a0c604da"
+	}
+}
